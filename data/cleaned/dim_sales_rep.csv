@@ -1,0 +1,13 @@
+﻿sales_rep_id,sales_rep_name,territory_id,territory,join_date,monthly_target,manager_name
+SR001,Aina Rahman,T001,Central,2023-02-17,85000,Commercial Sales Manager
+SR002,Daniel Lee,T002,Kuala Lumpur,2024-02-15,80000,Commercial Sales Manager
+SR003,Farah Nabila,T003,Northern,2022-10-27,65000,Commercial Sales Manager
+SR004,Harith Iskandar,T004,Southern,2022-04-15,65000,Commercial Sales Manager
+SR005,Jasmine Wong,T005,East Coast,2022-10-09,95000,Commercial Sales Manager
+SR006,Kumar Raj,T006,East Malaysia,2022-07-03,70000,Commercial Sales Manager
+SR007,Liyana Aziz,T001,Central,2022-03-09,90000,Commercial Sales Manager
+SR008,Marcus Tan,T002,Kuala Lumpur,2022-03-12,100000,Commercial Sales Manager
+SR009,Nur Izzati,T003,Northern,2023-03-22,100000,Commercial Sales Manager
+SR010,Raymond Lim,T004,Southern,2021-10-20,85000,Commercial Sales Manager
+SR011,Siti Hajar,T005,East Coast,2021-10-13,80000,Commercial Sales Manager
+SR012,Zack Ahmad,T006,East Malaysia,2024-02-24,85000,Commercial Sales Manager

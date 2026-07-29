@@ -1,0 +1,13 @@
+﻿campaign_id,campaign_name,campaign_type,start_date,end_date,target_product,target_customer,campaign_cost,attributed_sales,leads_generated,customers_converted,conversion_rate,campaign_roi
+CAM001,Respiratory Relief Q1,Product Launch,2025-01-01,2025-02-11,P013,Pharmacy,11000,180531.6,105,13,0.1238,15.412
+CAM002,Hospital Antibiotic Drive,Product Launch,2025-02-15,2025-04-11,P001,Pharmacy,37000,296414.02,173,15,0.0867,7.0112
+CAM003,Pharmacy Wellness Bundle,Awareness,2025-04-01,2025-04-30,P015,Pharmacy,28000,93701.15,122,75,0.6148,2.3465
+CAM004,Ramadan Health Campaign,Bundle,2025-05-16,2025-06-17,P005,Hospital,9000,178490.74,162,22,0.1358,18.8323
+CAM005,Clinic Partnership Program,Product Launch,2025-06-30,2025-08-25,P004,Hospital,15000,219368.75,125,52,0.416,13.6246
+CAM006,East Malaysia Expansion,Awareness,2025-08-14,2025-10-02,P015,Pharmacy,29000,185427.42,129,19,0.1473,5.394
+CAM007,Pain Management Awareness,Awareness,2025-09-28,2025-11-01,P014,Hospital,34000,148530.67,139,33,0.2374,3.3685
+CAM008,Immunity Booster Launch,Bundle,2025-11-12,2026-01-02,P009,Hospital,30000,184239.54,163,79,0.4847,5.1413
+CAM009,Gastro Care Promotion,Bundle,2025-12-27,2026-02-03,P015,Distributor,15000,125321.71,162,90,0.5556,7.3548
+CAM010,Southern Territory Push,Awareness,2026-02-10,2026-03-13,P012,Pharmacy,9000,139563.18,53,17,0.3208,14.507
+CAM011,Year-End Stock-Up,Awareness,2026-03-27,2026-05-08,P007,Hospital,35000,180746.97,131,85,0.6489,4.1642
+CAM012,Key Account Appreciation,Bundle,2026-05-11,2026-06-10,P007,Hospital,9000,131191.55,65,34,0.5231,13.5768
