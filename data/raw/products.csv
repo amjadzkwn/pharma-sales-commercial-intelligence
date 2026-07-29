@@ -1,0 +1,19 @@
+﻿product_id,product_name,product_category,dosage_form,unit_cost,selling_price,launch_date,product_status
+P001,Amoxicare 500mg,Antibiotic,Syrup,21.72,34.05,2022-09-08,Active
+P002,Cefurox 250mg,Antibiotic,Sachet,9.86,20.37,2022-03-31,Active
+P003,Azithromax 250mg,Antibiotic,Tablet,20.33,31.96,2022-08-12,Active
+P004,Paracetamol Plus,Analgesic,Sachet,10.13,19.97,2022-07-23,Active
+P005,PainRelief XR,Analgesic,Cream,23.91,48.8,2022-08-14,Active
+P006,IbuproCare 400mg,Analgesic,Tablet,16.3,28.44,2024-02-17,Active
+P007,CoughEase Syrup,Respiratory,Syrup,26.47,53.96,2022-10-12,Active
+P008,AllerFree 10mg,Respiratory,Syrup,7.93,17.6,2022-04-15,Active
+P009,BreatheWell Inhaler,Respiratory,Syrup,6.14,9.93,2023-09-11,Active
+P010,GastroSafe 20mg,Gastrointestinal,Cream,11.04,17.45,2023-07-04,Active
+P011,DigestPro Sachet,Gastrointestinal,Tablet,7.06,15.5,2023-07-20,Active
+P012,AcidControl 40mg,Gastrointestinal,Syrup,11.86,23.6,2023-08-15,Active
+P013,VitaBoost C,Supplement,Capsule,8.98,14.36,2024-03-02,Active
+P014,CalciStrong D3,Supplement,Capsule,11.75,18.87,2024-06-06,Active
+P015,ImmunoPlus Zinc,Supplement,Syrup,6.38,11.13,2022-06-16,Active
+P016,DermaHeal Cream,Dermatology,Syrup,14.05,23.84,2023-12-20,Active
+P017,AntiFungal Plus,Dermatology,Sachet,30.19,60.49,2023-10-13,Active
+P018,SkinCalm Lotion,Dermatology,Capsule,8.38,17.27,2023-04-19,Active

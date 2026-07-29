@@ -1,0 +1,181 @@
+﻿customer_id,customer_name,customer_type,territory_id,territory,state,customer_segment,registration_date,credit_limit
+C0001,City Pharmacy 001,Pharmacy,T004,Southern,Johor,Standard,2020-10-10,95000
+C0002,Klinik Harmoni 002,Clinic,T001,Central,Selangor,Key Account,2020-11-23,140000
+C0003,HealthPlus Pharmacy 003,Pharmacy,T005,East Coast,Pahang,Standard,2023-05-05,85000
+C0004,HealthPlus Pharmacy 004,Pharmacy,T005,East Coast,Pahang,Standard,2020-08-22,120000
+C0005,MediPoint Pharmacy 005,Pharmacy,T003,Northern,Penang,Key Account,2022-06-09,40000
+C0006,Klinik Prima 006,Clinic,T006,East Malaysia,Sabah,Small,2024-04-09,40000
+C0007,Klinik Prima 007,Clinic,T001,Central,Selangor,Small,2022-11-05,110000
+C0008,Klinik Sihat 008,Clinic,T003,Northern,Penang,Standard,2024-05-13,95000
+C0009,CareSource Distribution 009,Distributor,T005,East Coast,Pahang,Standard,2020-08-17,70000
+C0010,WellCare Pharmacy 010,Pharmacy,T003,Northern,Penang,Key Account,2024-12-03,105000
+C0011,BioHealth Supply 011,Distributor,T001,Central,Selangor,Small,2024-04-06,100000
+C0012,City Pharmacy 012,Pharmacy,T002,Kuala Lumpur,Kuala Lumpur,Small,2020-12-04,55000
+C0013,City Pharmacy 013,Pharmacy,T005,East Coast,Pahang,Small,2023-01-09,135000
+C0014,MediPoint Pharmacy 014,Pharmacy,T002,Kuala Lumpur,Kuala Lumpur,Standard,2023-10-07,115000
+C0015,Klinik Keluarga 015,Clinic,T005,East Coast,Pahang,Key Account,2021-04-05,25000
+C0016,Klinik Sihat 016,Clinic,T005,East Coast,Pahang,Standard,2020-01-15,25000
+C0017,WellCare Pharmacy 017,Pharmacy,T001,Central,Selangor,Key Account,2020-03-05,65000
+C0018,MetroCare 018,Hospital,T002,Kuala Lumpur,Kuala Lumpur,Standard,2021-03-14,100000
+C0019,Seri Murni 019,Hospital,T005,East Coast,Pahang,Standard,2022-08-26,140000
+C0020,Klinik Harmoni 020,Clinic,T001,Central,Selangor,Standard,2021-12-26,80000
+C0021,Klinik Harmoni 021,Clinic,T006,East Malaysia,Sabah,Standard,2023-08-16,30000
+C0022,MetroCare 022,Hospital,T006,East Malaysia,Sabah,Small,2020-08-11,50000
+C0023,Klinik Keluarga 023,Clinic,T005,East Coast,Pahang,Key Account,2021-01-10,55000
+C0024,Klinik Keluarga 024,Clinic,T001,Central,Selangor,Small,2024-10-19,100000
+C0025,Sentosa Specialist 025,Hospital,T006,East Malaysia,Sabah,Small,2024-03-23,50000
+C0026,Seri Murni 026,Hospital,T004,Southern,Johor,Standard,2022-04-01,20000
+C0027,Seri Murni 027,Hospital,T001,Central,Selangor,Standard,2024-05-24,140000
+C0028,Klinik Keluarga 028,Clinic,T004,Southern,Johor,Key Account,2021-08-30,45000
+C0029,MedSupply Distribution 029,Distributor,T005,East Coast,Pahang,Small,2020-04-27,20000
+C0030,WellCare Pharmacy 030,Pharmacy,T005,East Coast,Pahang,Key Account,2022-11-06,25000
+C0031,HealthPlus Pharmacy 031,Pharmacy,T001,Central,Selangor,Standard,2021-04-26,75000
+C0032,Damai Medical 032,Hospital,T005,East Coast,Pahang,Standard,2020-03-22,110000
+C0033,MetroCare 033,Hospital,T006,East Malaysia,Sabah,Small,2021-02-22,120000
+C0034,MediPoint Pharmacy 034,Pharmacy,T002,Kuala Lumpur,Kuala Lumpur,Standard,2023-10-07,115000
+C0035,Klinik Harmoni 035,Clinic,T003,Northern,Penang,Key Account,2023-06-26,105000
+C0036,PharmaLink Trading 036,Distributor,T001,Central,Selangor,Standard,2020-09-28,70000
+C0037,MediPoint Pharmacy 037,Pharmacy,T002,Kuala Lumpur,Kuala Lumpur,Standard,2022-06-16,145000
+C0038,HealthPlus Pharmacy 038,Pharmacy,T003,Northern,Penang,Standard,2023-02-09,60000
+C0039,PharmaLink Trading 039,Distributor,T001,Central,Selangor,Standard,2020-08-07,130000
+C0040,MediPoint Pharmacy 040,Pharmacy,T003,Northern,Penang,Standard,2024-01-09,65000
+C0041,Klinik Prima 041,Clinic,T006,East Malaysia,Sabah,Standard,2021-05-29,20000
+C0042,MetroCare 042,Hospital,T004,Southern,Johor,Key Account,2021-11-14,135000
+C0043,Damai Medical 043,Hospital,T003,Northern,Penang,Small,2023-02-03,125000
+C0044,Klinik Harmoni 044,Clinic,T001,Central,Selangor,Key Account,2023-11-16,35000
+C0045,WellCare Pharmacy 045,Pharmacy,T003,Northern,Penang,Standard,2020-03-26,60000
+C0046,Klinik Prima 046,Clinic,T001,Central,Selangor,Standard,2021-05-26,120000
+C0047,Seri Murni 047,Hospital,T005,East Coast,Pahang,Small,2024-03-14,35000
+C0048,PharmaLink Trading 048,Distributor,T002,Kuala Lumpur,Kuala Lumpur,Small,2024-07-18,40000
+C0049,WellCare Pharmacy 049,Pharmacy,T001,Central,Selangor,Small,2021-11-11,140000
+C0050,PharmaLink Trading 050,Distributor,T006,East Malaysia,Sabah,Standard,2024-05-31,125000
+C0051,Seri Murni 051,Hospital,T001,Central,Selangor,Standard,2024-07-30,85000
+C0052,Klinik Sihat 052,Clinic,T002,Kuala Lumpur,Kuala Lumpur,Key Account,2021-01-30,75000
+C0053,Klinik Prima 053,Clinic,T001,Central,Selangor,Standard,2022-11-09,75000
+C0054,MediPoint Pharmacy 054,Pharmacy,T005,East Coast,Pahang,Small,2020-08-24,55000
+C0055,Sentosa Specialist 055,Hospital,T003,Northern,Penang,Key Account,2022-06-08,70000
+C0056,City Pharmacy 056,Pharmacy,T003,Northern,Penang,Standard,2022-11-13,30000
+C0057,Klinik Sihat 057,Clinic,T005,East Coast,Pahang,Standard,2023-12-22,80000
+C0058,Damai Medical 058,Hospital,T005,East Coast,Pahang,Standard,2020-05-23,120000
+C0059,CareSource Distribution 059,Distributor,T005,East Coast,Pahang,Standard,2020-09-12,130000
+C0060,CareSource Distribution 060,Distributor,T005,East Coast,Pahang,Standard,2021-10-30,75000
+C0061,WellCare Pharmacy 061,Pharmacy,T005,East Coast,Pahang,Standard,2023-09-23,75000
+C0062,MediPoint Pharmacy 062,Pharmacy,T002,Kuala Lumpur,Kuala Lumpur,Standard,2024-09-03,15000
+C0063,Klinik Keluarga 063,Clinic,T002,Kuala Lumpur,Kuala Lumpur,Small,2023-05-27,115000
+C0064,Klinik Keluarga 064,Clinic,T004,Southern,Johor,Standard,2022-11-12,90000
+C0065,WellCare Pharmacy 065,Pharmacy,T006,East Malaysia,Sabah,Standard,2021-08-04,95000
+C0066,MediPoint Pharmacy 066,Pharmacy,T005,East Coast,Pahang,Key Account,2024-03-18,50000
+C0067,WellCare Pharmacy 067,Pharmacy,T002,Kuala Lumpur,Kuala Lumpur,Key Account,2020-04-04,50000
+C0068,MedSupply Distribution 068,Distributor,T005,East Coast,Pahang,Standard,2023-07-13,105000
+C0069,Klinik Keluarga 069,Clinic,T006,East Malaysia,Sabah,Standard,2021-05-14,35000
+C0070,HealthPlus Pharmacy 070,Pharmacy,T001,Central,Selangor,Small,2021-03-24,40000
+C0071,City Pharmacy 071,Pharmacy,T006,East Malaysia,Sabah,Key Account,2021-05-25,30000
+C0072,Klinik Prima 072,Clinic,T004,Southern,Johor,Small,2022-06-25,110000
+C0073,City Pharmacy 073,Pharmacy,T005,East Coast,Pahang,Small,2023-01-27,85000
+C0074,City Pharmacy 074,Pharmacy,T006,East Malaysia,Sabah,Standard,2024-03-19,50000
+C0075,City Pharmacy 075,Pharmacy,T003,Northern,Penang,Standard,2021-07-16,85000
+C0076,Damai Medical 076,Hospital,T003,Northern,Penang,Standard,2021-10-16,100000
+C0077,Damai Medical 077,Hospital,T002,Kuala Lumpur,Kuala Lumpur,Standard,2020-11-08,125000
+C0078,Klinik Keluarga 078,Clinic,T004,Southern,Johor,Standard,2022-08-12,80000
+C0079,Seri Murni 079,Hospital,T004,Southern,Johor,Small,2023-04-11,125000
+C0080,Seri Murni 080,Hospital,T005,East Coast,Pahang,Standard,2021-12-21,60000
+C0081,WellCare Pharmacy 081,Pharmacy,T004,Southern,Johor,Standard,2021-07-12,80000
+C0082,Klinik Prima 082,Clinic,T004,Southern,Johor,Standard,2024-06-22,75000
+C0083,WellCare Pharmacy 083,Pharmacy,T004,Southern,Johor,Small,2022-12-29,15000
+C0084,MedSupply Distribution 084,Distributor,T005,East Coast,Pahang,Key Account,2022-05-27,35000
+C0085,HealthPlus Pharmacy 085,Pharmacy,T002,Kuala Lumpur,Kuala Lumpur,Standard,2021-11-01,45000
+C0086,Klinik Keluarga 086,Clinic,T003,Northern,Penang,Standard,2024-08-30,80000
+C0087,Klinik Keluarga 087,Clinic,T001,Central,Selangor,Key Account,2023-01-09,20000
+C0088,PharmaLink Trading 088,Distributor,T003,Northern,Penang,Standard,2024-05-18,115000
+C0089,Damai Medical 089,Hospital,T001,Central,Selangor,Standard,2020-02-11,110000
+C0090,Seri Murni 090,Hospital,T002,Kuala Lumpur,Kuala Lumpur,Standard,2023-03-01,45000
+C0091,Klinik Prima 091,Clinic,T003,Northern,Penang,Key Account,2023-05-28,130000
+C0092,MediPoint Pharmacy 092,Pharmacy,T002,Kuala Lumpur,Kuala Lumpur,Key Account,2020-02-22,60000
+C0093,City Pharmacy 093,Pharmacy,T004,Southern,Johor,Small,2021-02-10,25000
+C0094,WellCare Pharmacy 094,Pharmacy,T006,East Malaysia,Sabah,Key Account,2024-05-01,60000
+C0095,HealthPlus Pharmacy 095,Pharmacy,T005,East Coast,Pahang,Small,2023-03-05,140000
+C0096,Seri Murni 096,Hospital,T005,East Coast,Pahang,Standard,2020-05-21,95000
+C0097,City Pharmacy 097,Pharmacy,T001,Central,Selangor,Small,2020-08-04,80000
+C0098,BioHealth Supply 098,Distributor,T006,East Malaysia,Sabah,Small,2022-06-10,40000
+C0099,MediPoint Pharmacy 099,Pharmacy,T006,East Malaysia,Sabah,Standard,2023-01-07,135000
+C0100,Klinik Prima 100,Clinic,T004,Southern,Johor,Standard,2021-05-17,145000
+C0101,BioHealth Supply 101,Distributor,T003,Northern,Penang,Standard,2022-08-09,105000
+C0102,MediPoint Pharmacy 102,Pharmacy,T004,Southern,Johor,Key Account,2024-10-08,65000
+C0103,Klinik Prima 103,Clinic,T002,Kuala Lumpur,Kuala Lumpur,Small,2021-11-28,55000
+C0104,MediPoint Pharmacy 104,Pharmacy,T006,East Malaysia,Sabah,Standard,2022-11-24,45000
+C0105,Seri Murni 105,Hospital,T006,East Malaysia,Sabah,Standard,2024-04-01,50000
+C0106,City Pharmacy 106,Pharmacy,T006,East Malaysia,Sabah,Standard,2020-02-05,25000
+C0107,Klinik Sihat 107,Clinic,T004,Southern,Johor,Standard,2023-04-06,70000
+C0108,Klinik Prima 108,Clinic,T005,East Coast,Pahang,Standard,2024-03-07,100000
+C0109,Klinik Keluarga 109,Clinic,T006,East Malaysia,Sabah,Standard,2021-05-29,50000
+C0110,MetroCare 110,Hospital,T002,Kuala Lumpur,Kuala Lumpur,Key Account,2023-01-02,135000
+C0111,WellCare Pharmacy 111,Pharmacy,T002,Kuala Lumpur,Kuala Lumpur,Small,2021-07-20,130000
+C0112,MediPoint Pharmacy 112,Pharmacy,T005,East Coast,Pahang,Small,2024-09-01,45000
+C0113,Klinik Sihat 113,Clinic,T003,Northern,Penang,Standard,2023-12-21,100000
+C0114,Sentosa Specialist 114,Hospital,T001,Central,Selangor,Standard,2023-11-29,35000
+C0115,HealthPlus Pharmacy 115,Pharmacy,T004,Southern,Johor,Small,2023-03-21,60000
+C0116,Klinik Prima 116,Clinic,T004,Southern,Johor,Standard,2020-04-15,55000
+C0117,MedSupply Distribution 117,Distributor,T004,Southern,Johor,Small,2022-03-31,90000
+C0118,Sentosa Specialist 118,Hospital,T006,East Malaysia,Sabah,Key Account,2024-07-19,105000
+C0119,PharmaLink Trading 119,Distributor,T001,Central,Selangor,Key Account,2024-04-14,80000
+C0120,WellCare Pharmacy 120,Pharmacy,T005,East Coast,Pahang,Small,2022-02-18,85000
+C0121,BioHealth Supply 121,Distributor,T003,Northern,Penang,Standard,2023-06-25,20000
+C0122,HealthPlus Pharmacy 122,Pharmacy,T006,East Malaysia,Sabah,Small,2021-03-01,115000
+C0123,Klinik Harmoni 123,Clinic,T006,East Malaysia,Sabah,Key Account,2020-12-21,100000
+C0124,Seri Murni 124,Hospital,T001,Central,Selangor,Standard,2023-05-01,90000
+C0125,Klinik Prima 125,Clinic,T002,Kuala Lumpur,Kuala Lumpur,Small,2023-12-10,85000
+C0126,MetroCare 126,Hospital,T002,Kuala Lumpur,Kuala Lumpur,Small,2023-07-04,105000
+C0127,City Pharmacy 127,Pharmacy,T002,Kuala Lumpur,Kuala Lumpur,Key Account,2021-04-05,115000
+C0128,Damai Medical 128,Hospital,T003,Northern,Penang,Key Account,2020-12-05,140000
+C0129,Klinik Prima 129,Clinic,T006,East Malaysia,Sabah,Standard,2022-08-17,125000
+C0130,Klinik Prima 130,Clinic,T004,Southern,Johor,Standard,2022-10-08,85000
+C0131,Seri Murni 131,Hospital,T001,Central,Selangor,Small,2023-05-21,55000
+C0132,Sentosa Specialist 132,Hospital,T002,Kuala Lumpur,Kuala Lumpur,Small,2023-10-08,145000
+C0133,Klinik Sihat 133,Clinic,T001,Central,Selangor,Standard,2023-08-27,85000
+C0134,BioHealth Supply 134,Distributor,T002,Kuala Lumpur,Kuala Lumpur,Standard,2022-10-04,25000
+C0135,Klinik Prima 135,Clinic,T004,Southern,Johor,Standard,2020-08-02,40000
+C0136,Klinik Keluarga 136,Clinic,T006,East Malaysia,Sabah,Standard,2022-03-31,145000
+C0137,City Pharmacy 137,Pharmacy,T001,Central,Selangor,Key Account,2021-05-31,65000
+C0138,Sentosa Specialist 138,Hospital,T004,Southern,Johor,Standard,2023-01-16,85000
+C0139,Klinik Prima 139,Clinic,T002,Kuala Lumpur,Kuala Lumpur,Standard,2022-10-17,115000
+C0140,Klinik Sihat 140,Clinic,T001,Central,Selangor,Standard,2020-09-25,60000
+C0141,Klinik Keluarga 141,Clinic,T006,East Malaysia,Sabah,Key Account,2023-07-14,110000
+C0142,WellCare Pharmacy 142,Pharmacy,T006,East Malaysia,Sabah,Standard,2020-01-29,100000
+C0143,Klinik Harmoni 143,Clinic,T002,Kuala Lumpur,Kuala Lumpur,Standard,2020-08-28,115000
+C0144,MediPoint Pharmacy 144,Pharmacy,T004,Southern,Johor,Standard,2021-07-13,80000
+C0145,WellCare Pharmacy 145,Pharmacy,T004,Southern,Johor,Standard,2020-10-23,75000
+C0146,Klinik Sihat 146,Clinic,T005,East Coast,Pahang,Small,2021-07-19,135000
+C0147,MediPoint Pharmacy 147,Pharmacy,T004,Southern,Johor,Small,2022-11-05,55000
+C0148,MediPoint Pharmacy 148,Pharmacy,T003,Northern,Penang,Small,2023-04-02,120000
+C0149,Klinik Keluarga 149,Clinic,T002,Kuala Lumpur,Kuala Lumpur,Standard,2021-12-07,65000
+C0150,City Pharmacy 150,Pharmacy,T005,East Coast,Pahang,Standard,2021-10-21,45000
+C0151,BioHealth Supply 151,Distributor,T002,Kuala Lumpur,Kuala Lumpur,Standard,2024-05-07,80000
+C0152,Seri Murni 152,Hospital,T006,East Malaysia,Sabah,Small,2024-07-19,75000
+C0153,Klinik Sihat 153,Clinic,T006,East Malaysia,Sabah,Standard,2020-03-16,35000
+C0154,Klinik Prima 154,Clinic,T005,East Coast,Pahang,Small,2024-11-25,85000
+C0155,Sentosa Specialist 155,Hospital,T004,Southern,Johor,Small,2022-04-19,115000
+C0156,BioHealth Supply 156,Distributor,T001,Central,Selangor,Small,2021-06-26,65000
+C0157,HealthPlus Pharmacy 157,Pharmacy,T004,Southern,Johor,Small,2024-10-11,120000
+C0158,MediPoint Pharmacy 158,Pharmacy,T004,Southern,Johor,Standard,2024-04-04,90000
+C0159,HealthPlus Pharmacy 159,Pharmacy,T001,Central,Selangor,Standard,2023-11-02,60000
+C0160,MedSupply Distribution 160,Distributor,T006,East Malaysia,Sabah,Standard,2020-07-20,135000
+C0161,City Pharmacy 161,Pharmacy,T001,Central,Selangor,Key Account,2021-09-05,15000
+C0162,MetroCare 162,Hospital,T001,Central,Selangor,Standard,2022-06-01,35000
+C0163,Klinik Sihat 163,Clinic,T004,Southern,Johor,Key Account,2020-06-10,110000
+C0164,WellCare Pharmacy 164,Pharmacy,T005,East Coast,Pahang,Standard,2023-04-09,35000
+C0165,Klinik Prima 165,Clinic,T006,East Malaysia,Sabah,Standard,2023-09-27,15000
+C0166,MediPoint Pharmacy 166,Pharmacy,T004,Southern,Johor,Standard,2020-11-19,25000
+C0167,Klinik Prima 167,Clinic,T003,Northern,Penang,Standard,2022-05-18,125000
+C0168,Klinik Sihat 168,Clinic,T003,Northern,Penang,Small,2024-10-13,90000
+C0169,MetroCare 169,Hospital,T004,Southern,Johor,Standard,2023-12-03,60000
+C0170,Seri Murni 170,Hospital,T006,East Malaysia,Sabah,Standard,2023-03-05,120000
+C0171,City Pharmacy 171,Pharmacy,T001,Central,Selangor,Small,2021-08-09,135000
+C0172,MediPoint Pharmacy 172,Pharmacy,T005,East Coast,Pahang,Standard,2021-01-24,110000
+C0173,Klinik Sihat 173,Clinic,T006,East Malaysia,Sabah,Standard,2023-07-09,115000
+C0174,Sentosa Specialist 174,Hospital,T004,Southern,Johor,Standard,2024-02-08,35000
+C0175,MetroCare 175,Hospital,T003,Northern,Penang,Small,2020-12-25,45000
+C0176,MetroCare 176,Hospital,T005,East Coast,Pahang,Standard,2021-07-12,145000
+C0177,MetroCare 177,Hospital,T004,Southern,Johor,Small,2021-11-24,140000
+C0178,Damai Medical 178,Hospital,T001,Central,Selangor,Small,2021-04-07,120000
+C0179,MediPoint Pharmacy 179,Pharmacy,T004,Southern,Johor,Key Account,2022-03-19,15000
+C0180,Klinik Keluarga 180,Clinic,T001,Central,Selangor,Standard,2024-03-13,120000
